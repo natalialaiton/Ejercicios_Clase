@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Lora&family=Merriweather:ital,wght@0,300;1,400&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Lora&family=Merriweather:ital@1&family=Playfair+Display&display=swap');
+
+body { 
+    margin: 0;
+    width: auto;
+    height: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    text-align: center; /* Centrar texto horizontalmente */
+    align-items: center;
+    
+}
+
+h1 { 
+    color: aliceblue;
+    text-align: left;
+}
+
+p { 
+    color: white;
+    text-align: justify;
+    
+}
+
+.tarjeta { 
+    background-color: #3eb68e; /* Fondo blanco para la tarjeta */
+    padding: 20px; /* Espaciado interno para el contenido de la tarjeta */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para la tarjeta */
+    max-width: 600px; /* Ancho máximo de la tarjeta */
+    margin: 0 auto; 
+    border-color: yellow;
+    border-style: dashed;
+    border-width: 5px;
+}
+
+img { 
+    float: left; /* Alinear la imagen a la izquierda */
+    margin-right: 20px; 
+    width: 155px;
+    height: 200;
+    text-decoration: ;
+}
+
+span { 
+    color: rgb(242, 232, 37);
+    text-decoration: underline; 
+    font-family: 'Merriweather';
+}
+
