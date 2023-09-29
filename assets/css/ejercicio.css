@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Lora&family=Merriweather:ital@1&family=Playfair+Display&display=swap');
+
+h2{
+    color: rgb(69, 6, 47);
+    
+    font-family: 'Merriweather';
+    font-size: 300%;
+}
+
+#titulo{
+    text-align: right;
+}
+.nombre{
+    color: rgb(117, 242, 215);
+    text-align: center;
+    font-family: 'Merriweather';
+
+}
+
+.cumple{
+    color: rgb(128, 16, 233);
+    text-align: right;
+    font-family: 'Playfair';
+}
+
+.mama{
+    color: rgb(216, 188, 243);
+    text-align: left;
+    font-family: 'Lora';
+}
+
+.homero{
+    font-style: italic;
+    text-decoration: underline;
+    color: #FCFC34
+}
+

@@ -18,29 +18,26 @@ h1 {
     text-align: left;
 }
 
-p { 
-    color: white;
+.Esopo p { 
+    
     text-align: justify;
     
 }
 
-.tarjeta { 
-    background-color: #3eb68e; /* Fondo blanco para la tarjeta */
-    padding: 20px; /* Espaciado interno para el contenido de la tarjeta */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para la tarjeta */
-    max-width: 600px; /* Ancho máximo de la tarjeta */
-    margin: 0 auto; 
-    border-color: yellow;
-    border-style: dashed;
-    border-width: 5px;
+.Esopo { 
+    width: 800px;
+    background-color: #15A085;
+    margin: 50px auto;
+    border: 4px dashed#FCFC34 ;
+    padding: 30px 30px 30px 30px;
+    color: #FFFFFF;
+
 }
 
-img { 
-    float: left; /* Alinear la imagen a la izquierda */
-    margin-right: 20px; 
-    width: 155px;
-    height: 200;
-    text-decoration: ;
+.Esopo img { 
+    width: 120px;
+    float: left;
+    margin-right: 10px;
 }
 
 span { 
