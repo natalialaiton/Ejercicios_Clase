@@ -14,7 +14,7 @@ body {
 }
 
 h1 { 
-    color: aliceblue;
+    color: black;
     text-align: left;
 }
 
@@ -26,16 +26,16 @@ h1 {
 
 .Esopo { 
     width: 800px;
-    background-color: #15A085;
+    background-color: #FEF5E7 ;
     margin: 50px auto;
     border: 4px dashed#FCFC34 ;
     padding: 30px 30px 30px 30px;
-    color: #FFFFFF;
+    color: black;
 
 }
 
 .Esopo img { 
-    width: 120px;
+    width: 300px;
     float: left;
     margin-right: 10px;
 }
